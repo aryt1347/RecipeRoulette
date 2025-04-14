@@ -42,7 +42,7 @@ function App() {
     const options = {
       method: "GET",
       headers: {
-        "x-rapidapi-key": "097f486965mshcc7c91befc66cbbp15dffajsnb3472a76c5b5",
+        "x-rapidapi-key": "",
         "x-rapidapi-host": "tasty.p.rapidapi.com",
       },
     };
